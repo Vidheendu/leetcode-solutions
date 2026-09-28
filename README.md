@@ -66,3 +66,19 @@ The goal of this repository is to consistently practice **Data Structures and Al
 ---
 
 ⭐ More solutions will be added regularly.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+<!---LeetCode Topics End-->
