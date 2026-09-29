@@ -21,16 +21,6 @@ leetcode-solutions/
 │
 └── ...
 ```
-
-## 🧩 Problems Solved
-
-| #    | Problem                                             | Difficulty | Solution                                                                       |
-| ---- | --------------------------------------------------- | ---------- | ------------------------------------------------------------------------------ |
-| 1    | Two Sum                                             | Easy       | [C++](./1-two-sum/solution.cpp)                                                |
-| 1190 | Reverse Substrings Between Each Pair of Parentheses | Medium     | [C++](./1190-reverse-substrings-between-each-pair-of-parentheses/solution.cpp) |
-
-> This table will be updated as more problems are added.
-
 ## 🛠️ Language
 
 * C++
