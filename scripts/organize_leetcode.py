@@ -257,6 +257,22 @@ def organize():
             destination_dir,
             exist_ok=True
         )
+        topic_readme = os.path.join(
+    destination_dir,
+    "README.md"
+)
+
+if not os.path.exists(topic_readme):
+    with open(
+        topic_readme,
+        "w",
+        encoding="utf-8"
+    ) as file:
+        file.write(
+            f"# {topic_folder}\n\n"
+            f"LeetCode problems related to "
+            f"{topic_folder.replace('-', ' ')}.\n"
+        )
 
         # Current problem location.
         source = os.path.join(
