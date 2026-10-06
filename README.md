@@ -51,7 +51,7 @@ The goal of this repository is to consistently practice **Data Structures and Al
 
 ## 🔗 LeetCode
 
-[My LeetCode Profile] https://leetcode.com/u/Vidheendu16/
+[My LeetCode Profile](https://leetcode.com/u/Vidheendu16/)
 
 ---
 
