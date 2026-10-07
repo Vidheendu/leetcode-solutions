@@ -64,6 +64,7 @@ The goal of this repository is to consistently practice **Data Structures and Al
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vidheendu/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vidheendu/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -100,9 +101,14 @@ The goal of this repository is to consistently practice **Data Structures and Al
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Vidheendu/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vidheendu/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
