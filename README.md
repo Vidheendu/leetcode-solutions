@@ -86,9 +86,7 @@ The goal of this repository is to consistently practice **Data Structures and Al
 | [0022-generate-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vidheendu/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
-| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vidheendu/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
-| [1021-remove-outermost-parentheses](https://github.com/Vidheendu/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
-| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vidheendu/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+
 ## Array
 |  |
 | ------- |
@@ -133,8 +131,4 @@ The goal of this repository is to consistently practice **Data Structures and Al
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vidheendu/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
-## Enumeration
-|  |
-| ------- |
-| [2778-sum-of-squares-of-special-elements](https://github.com/Vidheendu/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
