@@ -89,10 +89,7 @@ problem-folder/
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vidheendu/leetcode-solutions/tree/master/0344-reverse-string) |
-## String
-|  |
-| ------- |
-| [0344-reverse-string](https://github.com/Vidheendu/leetcode-solutions/tree/master/0344-reverse-string) |
+
 ## Math
 |  |
 | ------- |
