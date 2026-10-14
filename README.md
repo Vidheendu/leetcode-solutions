@@ -93,4 +93,12 @@ problem-folder/
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Vidheendu/leetcode-solutions/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vidheendu/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vidheendu/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
