@@ -102,6 +102,7 @@ problem-folder/
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vidheendu/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Vidheendu/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vidheendu/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vidheendu/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vidheendu/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -124,6 +125,7 @@ problem-folder/
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Vidheendu/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Vidheendu/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Divide and Conquer
 |  |
@@ -145,6 +147,7 @@ problem-folder/
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vidheendu/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Vidheendu/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization
 |  |
 | ------- |
