@@ -171,4 +171,8 @@ problem-folder/
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/Vidheendu/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Vidheendu/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
